@@ -2,8 +2,10 @@
 
 **Họ tên / nhóm:** Bùi Phương Duy · **MSV:** 2A202602684
 
-**Commit:** chưa tạo commit bài nộp; HEAD nền hiện tại `a3f9ce7078c14d183ed1e95d311a2df59bc86855`.
-Cần thay dòng này bằng hash của commit chứa bài làm khi chuẩn bị nộp.
+**Commit:** `fa3b2a0ab3968192895ca34ee0cb09c32e4ab041`
+
+Hash trên xác định snapshot chứa toàn bộ code, cấu hình, report và số liệu bài nộp.
+Commit kế tiếp chỉ ghi hash này vào report, không đổi code hoặc kết quả chấm.
 
 **Điểm tự động (`make grade`):** 84 / 88
 
